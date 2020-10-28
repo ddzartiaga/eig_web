@@ -1,2 +1,2 @@
-# eig_web
+# EIG Web Project
 EIG Website Frontend
